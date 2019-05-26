@@ -1,0 +1,25 @@
+[		{
+	"id": 1,
+	"name": "X-Bacon",
+	"image": "https://goo.gl/W9WdaF",
+	"price": "R$ 10,00"
+},
+	{
+		"id": 2,
+		"name": "X-Burger",
+		"image": "https://goo.gl/Cjfxi9",
+		"price": "R$ 15,00"
+	},
+	{
+		"id": 3,
+		"name": "X-Egg",
+		"image": "http://tiny.cc/vqs86y",
+		"price": "R$ 20,00"
+	},
+	{
+		"id": 4,
+		"name": "X-Egg Bacon",
+		"image": "http://tiny.cc/4js86y",
+		"price": "R$ 25,00"
+	}
+]
